@@ -1,0 +1,16 @@
+{
+  "name": "alos_act3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "build-babel": "babel -wd ./build ./src -s"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
